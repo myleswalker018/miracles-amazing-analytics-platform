@@ -41,6 +41,10 @@ The Supply Chain Performance dashboard focuses on operational and profitability 
 
 ---
 
+<img width="1536" height="1024" alt="Entity_Relationship_Diagram" src="https://github.com/user-attachments/assets/8b730ffa-5806-4ca8-8b66-befd10f50eb8" />
+
+---
+
 ## Technologies
 
 - SQL Server
