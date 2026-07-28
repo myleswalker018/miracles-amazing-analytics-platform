@@ -50,4 +50,25 @@ The Supply Chain Performance dashboard focuses on operational and profitability 
 - Data Modeling
 - Business Intelligence
 
+## Key Features
+
+- Relational SQL Server database
+- Interactive Power BI dashboards
+- Executive KPI reporting
+- Product profitability analysis
+- Customer segmentation
+- Marketing performance analysis
+- Geographic sales analysis
+- DAX measures and data modeling
+
+## Business Questions Answered
+
+- Which products generate the highest revenue?
+- Which products are the most profitable?
+- Which sales channels perform best?
+- Who are the top customers?
+- How does marketing spend compare across channels?
+- Which states generate the most revenue?
+- How do new and returning customers compare?
+
 
