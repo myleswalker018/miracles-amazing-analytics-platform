@@ -1,28 +1,53 @@
+<img width="2157" height="541" alt="mwfw-banner" src="https://github.com/user-attachments/assets/57d77989-f6e9-4da1-97b8-2dcea8f78dc6" />
+
 # Miracles Amazing Analytics Platform
 
-A SQL Server and Power BI portfolio project analyzing synthetic e-commerce data across revenue, product performance, profitability, customer behavior, marketing spend, geography, and monthly sales trends.
+An end-to-end Business Intelligence portfolio project built with SQL Server and Power BI to analyze fictional e-commerce sales data.
 
-## SQL files
+---
 
-Run the files in this order:
+## Dashboard Preview
 
-1. `SQL/01_Create_Database.sql`
-2. `SQL/02_Create_Tables.sql`
-3. `SQL/03_Insert_Sample_Data.sql`
-4. `SQL/04_Business_Analysis.sql`
+### Executive Overview
 
-## Database structure
+<img width="1775" height="857" alt="Screenshot 2026-07-28 192252" src="https://github.com/user-attachments/assets/635c1482-c2be-4642-bf44-49159f5dccb2" />
 
-- `Customers`
-- `Products`
-- `Orders`
-- `OrderItems`
-- `MarketingSpend`
+The Executive Overview dashboard provides high-level KPIs and business insights, including:
 
-## Dataset
+- Total Revenue
+- Gross Profit
+- Profit Margin
+- Average Order Value
+- Revenue by Product
+- Revenue by Sales Channel
+- Revenue by State
+- Customer Type Analysis
+- Monthly Revenue Trend
 
-The repository uses fictional customers, products, transactions, and marketing data for portfolio and educational purposes. It does not contain private customer information or actual company financial records.
+---
 
-## Skills demonstrated
+### Supply Chain Performance Dashboard
 
-SQL Server, relational data modeling, primary and foreign keys, joins, aggregate functions, common table expressions, profitability analysis, customer segmentation, geographic analysis, and KPI reporting.
+<img width="1775" height="863" alt="Screenshot 2026-07-28 192319" src="https://github.com/user-attachments/assets/519cf89d-b02a-4eab-8ae6-d3effbe1166c" />
+
+The Supply Chain Performance dashboard focuses on operational and profitability analysis, including:
+
+- Product Profitability
+- Top Customers by Revenue
+- Gross Profit Analysis
+- Marketing Spend vs Revenue
+- Product Performance
+- KPI Summary
+
+---
+
+## Technologies
+
+- SQL Server
+- T-SQL
+- Power BI
+- DAX
+- Data Modeling
+- Business Intelligence
+
+...
